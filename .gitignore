@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.img
+*.fd
+*.bin
+*.elf
+*.o
+backups/
